@@ -1,0 +1,29 @@
+StartTime = -17
+CollectCoin:  time = 35
+LittleState: StTime = -17 EdTime = 39
+Totaltime = 56
+Die:  Gap 
+NEWLEVELSTART
+StartTime = -17
+CollectCoin:  time = 47
+Jump:  StTime = 33 EdTime = 48
+CollectCoin:  time = 52
+LittleState: StTime = -17 EdTime = 58
+Totaltime = 75
+Die:  Gap 
+NEWLEVELSTART
+StartTime = -17
+CollectCoin:  time = 21
+LittleState: StTime = -17 EdTime = 24
+Totaltime = 41
+Die:  Gap 
+NEWLEVELSTART
+StartTime = -17
+RightMove: StTime = 20 EdTime = 13
+RightMove: StTime = 47 EdTime = 40
+LeftMove: StTime = 81 EdTime = 13
+RightMove: StTime = 95 EdTime = 133
+RightMove: StTime = 189 EdTime = 672
+Totaltime = 783
+RightMove: StTime = 763 EdTime = 675
+LittleState: StTime = -17 EdTime = 766
